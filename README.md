@@ -14,3 +14,5 @@ Filename: Git_Proj2_report; Description: Final report in pdf format
 Filename: Git_Proj2_NN; Description: Neural network classification
 
 Filename: Git_Proj2_Classification; Description: Logistic regression classification 
+
+Filename: Git_Proj2_Linear_Regressions; Description: Linear regressions for estimation of coupling constants
